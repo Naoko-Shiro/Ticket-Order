@@ -1,0 +1,10 @@
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\bin\Debug\PA 8 - Ticket Order.exe.config
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\obj\Debug\PA_8___Ticket_Order.Form1.resources
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\obj\Debug\PA_8___Ticket_Order.Resources.resources
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\obj\Debug\PA 8 - Ticket Order.vbproj.GenerateResource.Cache
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\bin\Debug\PA 8 - Ticket Order.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\bin\Debug\PA 8 - Ticket Order.pdb
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\bin\Debug\PA 8 - Ticket Order.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\obj\Debug\PA 8 - Ticket Order.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\obj\Debug\PA 8 - Ticket Order.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\PA 8 - Ticket Order\PA 8 - Ticket Order\obj\Debug\PA 8 - Ticket Order.pdb
